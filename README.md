@@ -1,9 +1,4 @@
 ### Hi there 👋
-hgjhghgjghj
-<!--
-**jfodor1/jfodor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 🔭 I’m currently working on EE 5450 as a student
 - 🌱 I’m currently learning how to be a better embedded hardware engineer
